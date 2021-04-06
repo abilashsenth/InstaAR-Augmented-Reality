@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VideoPreviewActivity">
+
+    <VideoView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/videoView"
+        />
+
+    <ImageView
+        android:layout_width="40sp"
+        android:layout_height="40sp"
+        android:src="@drawable/cancel_button"
+        android:layout_margin="15sp"
+        android:onClick="cancelShare"
+        android:id="@+id/cancel_button_share"/>
+
+    <ProgressBar
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:layout_centerInParent="true"
+        android:id="@+id/progress_circular"
+        android:visibility="invisible"/>
+    <ImageView
+        android:layout_width="40sp"
+        android:layout_height="40sp"
+        android:id="@+id/get_audio_button"
+        android:src="@drawable/addmusic_icon"
+        android:onClick="getAudio"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/share_button"/>
+
+    <ImageView
+        android:layout_width="120sp"
+        android:layout_height="100sp"
+        android:src="@drawable/share_button"
+        android:id="@+id/share_button"
+        android:onClick="shareVideo"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="15sp"/>
+
+</RelativeLayout>

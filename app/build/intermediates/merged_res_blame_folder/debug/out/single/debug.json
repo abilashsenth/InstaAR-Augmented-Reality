@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_gear.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\icon_gear.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_video_box.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\layout\\video_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c2.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\c2.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\raw_sample.mp3.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\raw\\sample.mp3"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_movie_button.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\movie_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m8.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m8.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c9.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\c9.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_modern_font_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\modern_font_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f9.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\f9.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_box.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\layout\\text_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m1.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m1.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gear_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\gear_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f2.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\f2.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a6.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\a6.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_addmusic_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\addmusic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c3.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\c3.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tempbg.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\tempbg.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m13.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m13.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_e5.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\e5.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f1.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\f1.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gifbutton.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\gifbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a7.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\a7.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f8.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\f8.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_gif_chooser_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\layout\\gif_chooser_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_refresh_button.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\refresh_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f4.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\f4.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c4.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\c4.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c7.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\c7.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hero_final.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\hero_final.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m9.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m9.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_720p.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\button_720p.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_undo_button.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\undo_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shutter_button.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\shutter_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m6.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m6.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_neon_font_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\neon_font_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a1.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\a1.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m11.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m11.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f10.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\f10.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_typewriter_font_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\typewriter_font_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubblegum.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\bubblegum.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f7.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\f7.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_e4.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\e4.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m3.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m3.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a10.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\a10.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a9.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\a9.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_e7.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\e7.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c1.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\c1.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_back.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m4.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m4.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_e1.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\e1.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_button.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\share_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a3.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\a3.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f6.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\f6.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_gif2.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\layout\\gif2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_preview.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\layout\\activity_video_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagebutton.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\imagebutton.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c5.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\c5.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f5.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\f5.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a4.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\a4.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gifs_header.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\gifs_header.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_e2.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\e2.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m10.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m10.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c6.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\c6.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m5.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m5.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_changecamera.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\icon_changecamera.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_strong_font_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\strong_font_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a5.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\a5.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_preferences_hero_two.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\preferences_hero_two.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m2.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m2.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shutterbutton.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\shutterbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_e3.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\e3.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_1080p.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\button_1080p.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\raw_andy.sfb.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\raw\\andy.sfb"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a8.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\a8.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_box.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\layout\\image_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_button.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\text_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel_button.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\cancel_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_e6.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\e6.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_preferences_hero.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\preferences_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_draw_button.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\draw_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m7.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m7.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_insta_ar_logo_hero.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\insta_ar_logo_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\layout_gif_box.xml.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\layout\\gif_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c8.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\c8.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_m12.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\m12.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a2.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\a2.gif"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f3.gif.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\InstaAR\\app\\src\\main\\res\\drawable\\f3.gif"
+    }
+]

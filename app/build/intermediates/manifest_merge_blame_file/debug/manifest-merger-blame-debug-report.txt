@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.thenextbiggeek.scribblear"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml
+10
+11    <!--
+12    this uses-feature means that the android devices
+13    supporting only ARcore will be able to download app
+14    -->
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:9:5-65
+15-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:9:22-62
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:11:5-80
+17-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:11:22-77
+18
+19    <uses-feature android:name="android.hardware.camera.ar" />
+19-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:13:5-63
+19-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:13:19-60
+20
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+22
+23    <application
+23-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:15:5-44:19
+24        android:allowBackup="true"
+24-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:16:9-35
+25        android:debuggable="true"
+26        android:extractNativeLibs="false"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:17:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:18:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:19:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:20:9-35
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme" >
+32-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:21:9-40
+33        <activity android:name="com.thenextbiggeek.scribblear.MainActivity" >
+33-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:24:9-29:20
+33-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:24:19-47
+34            <intent-filter>
+34-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:25:13-28:29
+35                <action android:name="android.intent.action.VIEW" />
+35-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:26:17-69
+35-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:26:25-66
+36            </intent-filter>
+37        </activity>
+38
+39        <meta-data
+39-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:31:9-33:40
+40            android:name="com.google.ar.core"
+40-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:32:13-46
+41            android:value="required" />
+41-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:33:13-37
+42
+43        <activity android:name="com.thenextbiggeek.scribblear.VideoPreviewActivity" />
+43-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:35:9-58
+43-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:35:19-55
+44        <activity android:name="com.thenextbiggeek.scribblear.SplashActivity" >
+44-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:36:9-41:20
+44-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:36:19-49
+45            <intent-filter>
+45-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:37:13-40:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:38:17-69
+46-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:38:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:39:17-77
+48-->C:\Users\ADMIN\Downloads\InstaAR\app\src\main\AndroidManifest.xml:39:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <!-- This activity is critical for installing ARCore when it is not already present. -->
+53        <activity
+53-->[com.google.ar:core:1.6.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\636735d19ed8501b2f12e6ca52a99ec3\core-1.6.0\AndroidManifest.xml:33:9-39:80
+54            android:name="com.google.ar.core.InstallActivity"
+54-->[com.google.ar:core:1.6.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\636735d19ed8501b2f12e6ca52a99ec3\core-1.6.0\AndroidManifest.xml:34:13-62
+55            android:configChanges="keyboardHidden|orientation|screenSize"
+55-->[com.google.ar:core:1.6.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\636735d19ed8501b2f12e6ca52a99ec3\core-1.6.0\AndroidManifest.xml:35:13-74
+56            android:excludeFromRecents="true"
+56-->[com.google.ar:core:1.6.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\636735d19ed8501b2f12e6ca52a99ec3\core-1.6.0\AndroidManifest.xml:36:13-46
+57            android:exported="false"
+57-->[com.google.ar:core:1.6.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\636735d19ed8501b2f12e6ca52a99ec3\core-1.6.0\AndroidManifest.xml:37:13-37
+58            android:launchMode="singleTop"
+58-->[com.google.ar:core:1.6.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\636735d19ed8501b2f12e6ca52a99ec3\core-1.6.0\AndroidManifest.xml:38:13-43
+59            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+59-->[com.google.ar:core:1.6.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\636735d19ed8501b2f12e6ca52a99ec3\core-1.6.0\AndroidManifest.xml:39:13-77
+60        <meta-data
+60-->[com.google.ar:core:1.6.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\636735d19ed8501b2f12e6ca52a99ec3\core-1.6.0\AndroidManifest.xml:41:9-43:41
+61            android:name="com.google.ar.core.min_apk_version"
+61-->[com.google.ar:core:1.6.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\636735d19ed8501b2f12e6ca52a99ec3\core-1.6.0\AndroidManifest.xml:42:13-62
+62            android:value="181012000" />
+62-->[com.google.ar:core:1.6.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\636735d19ed8501b2f12e6ca52a99ec3\core-1.6.0\AndroidManifest.xml:43:13-38
+63    </application>
+64
+65</manifest>

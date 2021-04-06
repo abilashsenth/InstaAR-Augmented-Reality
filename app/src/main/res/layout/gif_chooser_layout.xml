@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="match_parent"
+    android:id="@+id/gif_chooser_relative_layout"
+    android:orientation="vertical">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_marginTop="5sp"
+                android:orientation="horizontal"
+                android:layout_height="70sp">
+
+                <ImageView
+                    android:layout_width="60sp"
+                    android:layout_height="60sp"
+                    android:id="@+id/cancel_gif_selection"
+                    android:src="@drawable/cancel_button"
+                    android:onClick="cancelGifSelection"
+                    android:layout_margin="15sp"/>
+
+
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Weird Gifs🔥"
+                android:textColor="@color/white"
+                android:textSize="35sp"
+                android:id="@+id/heroTextTwo"
+                android:layout_gravity="left"
+                android:layout_marginLeft="35sp"
+                android:layout_marginTop="5sp"/>
+
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="30sp"
+                        >
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="100sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="100sp"
+                            android:layout_height="180sp"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/f1"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/f1"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="100sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="150sp"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/f2"
+                            android:src="@drawable/f2"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="100sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="130sp"
+                            android:layout_height="130sp"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/f3"
+                            android:src="@drawable/f3"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="100sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="100sp"
+                            android:layout_height="150sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/f4"
+                            android:src="@drawable/f4"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="100sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="100sp"
+                            android:layout_height="150sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/f5"
+                            android:src="@drawable/f5"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="100sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="100sp"
+                            android:layout_height="150sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/f6"
+                            android:src="@drawable/f6"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="100sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="100sp"
+                            android:layout_height="150sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/f7"
+                            android:src="@drawable/f7"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="100sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="100sp"
+                            android:layout_height="150sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/f8"
+                            android:src="@drawable/f8"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="100sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="100sp"
+                            android:layout_height="150sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/f9"
+                            android:src="@drawable/f9"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="100sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="100sp"
+                            android:layout_height="150sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/f10"
+                            android:src="@drawable/f10"/>
+
+                    </RelativeLayout>
+
+
+
+
+                </LinearLayout>
+
+
+            </HorizontalScrollView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Characters "
+                android:textColor="@color/white"
+                android:textSize="35sp"
+                android:id="@+id/heroTextThree"
+                android:layout_gravity="left"
+                android:layout_marginLeft="35sp"
+                android:layout_marginTop="5sp"
+                android:visibility="gone"/>
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:visibility="gone">
+
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5sp"
+                        >
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:layout_centerInParent="true"
+                            android:scaleType="centerCrop"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/c1"
+                            android:src="@drawable/c1"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/c2"
+                            android:layout_centerInParent="true"
+                            android:src="@drawable/c2"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/c3"
+                            android:src="@drawable/c3"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/c4"
+                            android:src="@drawable/c4"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/c5"
+                            android:src="@drawable/c5"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/c6"
+                            android:src="@drawable/c6"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/c7"
+                            android:src="@drawable/c7"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/c8"
+                            android:src="@drawable/c8"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/c9"
+                            android:src="@drawable/c9"/>
+
+                    </RelativeLayout>
+
+
+
+
+
+
+                </LinearLayout>
+
+
+            </HorizontalScrollView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Emojis 👻"
+                android:textColor="@color/white"
+                android:textSize="35sp"
+                android:id="@+id/heroTextSix"
+                android:layout_gravity="left"
+                android:layout_marginLeft="35sp"
+                android:layout_marginTop="15sp"/>
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5sp"
+                        >
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:layout_centerInParent="true"
+                            android:scaleType="fitCenter"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/e1"
+                            android:src="@drawable/e1"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/e2"
+                            android:layout_centerInParent="true"
+                            android:src="@drawable/e2"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/e3"
+                            android:src="@drawable/e3"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/e4"
+                            android:src="@drawable/e4"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/e5"
+                            android:src="@drawable/e5"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/e6"
+                            android:src="@drawable/e6"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/e7"
+                            android:src="@drawable/e7"/>
+
+                    </RelativeLayout>
+
+
+
+
+                </LinearLayout>
+
+
+            </HorizontalScrollView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Animals 🐶"
+                android:textColor="@color/white"
+                android:textSize="35sp"
+                android:id="@+id/heroTextFour"
+                android:layout_gravity="left"
+                android:layout_marginLeft="35sp"
+                android:layout_marginTop="15sp"/>
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5sp"
+                        >
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="150sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/a1"
+                            android:src="@drawable/a1"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/a2"
+                            android:src="@drawable/a2"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/a3"
+                            android:src="@drawable/a3"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="160sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/a4"
+                            android:src="@drawable/a4"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="160sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/a5"
+                            android:src="@drawable/a5"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="160sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/a6"
+                            android:src="@drawable/a6"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="160sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/a7"
+                            android:src="@drawable/a7"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="160sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/a8"
+                            android:src="@drawable/a8"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="160sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/a9"
+                            android:src="@drawable/a9"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="160sp"
+                            android:layout_height="220sp"
+                            android:scaleType="centerCrop"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/a10"
+                            android:src="@drawable/a10"/>
+
+                    </RelativeLayout>
+
+
+
+                </LinearLayout>
+
+
+            </HorizontalScrollView>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Vaporwave Gifs 👽"
+                android:textColor="@color/white"
+                android:textSize="35sp"
+                android:id="@+id/heroTextFive"
+                android:layout_gravity="left"
+                android:layout_marginLeft="35sp"
+                android:layout_marginTop="15sp"/>
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5sp"
+                        >
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:layout_centerInParent="true"
+                            android:scaleType="fitCenter"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m1"
+                            android:src="@drawable/m1"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m2"
+                            android:src="@drawable/m2"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m3"
+                            android:src="@drawable/m3"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m4"
+                            android:src="@drawable/m4"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m5"
+                            android:src="@drawable/m5"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m6"
+                            android:src="@drawable/m6"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m7"
+                            android:src="@drawable/m7"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m8"
+                            android:src="@drawable/m8"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m9"
+                            android:src="@drawable/m9"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m10"
+                            android:src="@drawable/m10"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m11"
+                            android:src="@drawable/m11"/>
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg2"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m12"
+                            android:src="@drawable/m12"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:layout_margin="12sp"
+                            android:layout_width="130sp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/bg1"/>
+
+                        <pl.droidsonroids.gif.GifImageView
+                            android:layout_width="140sp"
+                            android:layout_height="220sp"
+                            android:scaleType="fitCenter"
+                            android:layout_centerInParent="true"
+                            android:onClick="selectedGIFfromLayout"
+                            android:id="@+id/m13"
+                            android:src="@drawable/m13"/>
+
+                    </RelativeLayout>
+
+
+
+                </LinearLayout>
+
+
+            </HorizontalScrollView>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+</RelativeLayout>
+
+

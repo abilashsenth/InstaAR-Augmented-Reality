@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/abilash/AndroidStudioProjects/ScribbleAR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/Users/abilash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4f2b3306a97e957625a8b58300f911fd/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "2122",
+                        "endColumns": "100",
+                        "endOffsets": "2218"
+                    }
+                },
+                {
+                    "source": "/Users/abilash/.gradle/caches/transforms-1/files-1.1/core-1.6.0.aar/5724490c2234d64b9852b90c3cccd875/res/values-zh-rCN/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,237,282,354,430",
+                        "endColumns": "42,44,71,75,56",
+                        "endOffsets": "236,281,353,429,486"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,152,201,277,357",
+                        "endColumns": "46,48,75,79,60",
+                        "endOffsets": "147,196,272,352,413"
+                    }
+                },
+                {
+                    "source": "/Users/abilash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/89df455f23011cd3d611eef8c4bb9467/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,296,396,478,575,681,757,833,911,1007,1103,1198,1295,1390,1488,1637,1731",
+                        "endColumns": "95,94,99,81,96,105,75,75,77,95,95,94,96,94,97,148,93,77",
+                        "endOffsets": "196,291,391,473,570,676,752,828,906,1002,1098,1193,1290,1385,1483,1632,1726,1804"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "418,514,609,709,791,888,994,1070,1146,1224,1320,1416,1511,1608,1703,1801,1950,2044",
+                        "endColumns": "95,94,99,81,96,105,75,75,77,95,95,94,96,94,97,148,93,77",
+                        "endOffsets": "509,604,704,786,883,989,1065,1141,1219,1315,1411,1506,1603,1698,1796,1945,2039,2117"
+                    }
+                }
+            ]
+        }
+    ]
+}

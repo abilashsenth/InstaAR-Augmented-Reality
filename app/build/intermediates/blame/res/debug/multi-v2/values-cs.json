@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/abilash/AndroidStudioProjects/ScribbleAR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+            "map": [
+                {
+                    "source": "/Users/abilash/.gradle/caches/transforms-1/files-1.1/core-1.6.0.aar/5724490c2234d64b9852b90c3cccd875/res/values-cs/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,290,383,478",
+                        "endColumns": "46,52,92,94,64",
+                        "endOffsets": "236,289,382,477,542"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,156,213,310,409",
+                        "endColumns": "50,56,96,98,68",
+                        "endOffsets": "151,208,305,404,473"
+                    }
+                },
+                {
+                    "source": "/Users/abilash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/89df455f23011cd3d611eef8c4bb9467/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,314,423,509,614,731,812,893,977,1081,1190,1289,1395,1505,1612,1775,1873",
+                        "endColumns": "106,101,108,85,104,116,80,80,83,103,108,98,105,109,106,162,97,81",
+                        "endOffsets": "207,309,418,504,609,726,807,888,972,1076,1185,1284,1390,1500,1607,1770,1868,1950"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "478,585,687,796,882,987,1104,1185,1266,1350,1454,1563,1662,1768,1878,1985,2148,2246",
+                        "endColumns": "106,101,108,85,104,116,80,80,83,103,108,98,105,109,106,162,97,81",
+                        "endOffsets": "580,682,791,877,982,1099,1180,1261,1345,1449,1558,1657,1763,1873,1980,2143,2241,2323"
+                    }
+                },
+                {
+                    "source": "/Users/abilash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4f2b3306a97e957625a8b58300f911fd/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "2328",
+                        "endColumns": "100",
+                        "endOffsets": "2424"
+                    }
+                }
+            ]
+        }
+    ]
+}

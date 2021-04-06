@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/abilash/AndroidStudioProjects/ScribbleAR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
+            "map": [
+                {
+                    "source": "/Users/abilash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4f2b3306a97e957625a8b58300f911fd/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "2353",
+                        "endColumns": "100",
+                        "endOffsets": "2449"
+                    }
+                },
+                {
+                    "source": "/Users/abilash/.gradle/caches/transforms-1/files-1.1/core-1.6.0.aar/5724490c2234d64b9852b90c3cccd875/res/values-it/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,238,289,397,505",
+                        "endColumns": "47,50,107,107,68",
+                        "endOffsets": "237,288,396,504,573"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,157,212,324,436",
+                        "endColumns": "51,54,111,111,72",
+                        "endOffsets": "152,207,319,431,504"
+                    }
+                },
+                {
+                    "source": "/Users/abilash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/89df455f23011cd3d611eef8c4bb9467/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,314,423,507,616,741,818,894,975,1081,1189,1287,1391,1496,1603,1766,1866",
+                        "endColumns": "108,99,108,83,108,124,76,75,80,105,107,97,103,104,106,162,99,82",
+                        "endOffsets": "209,309,418,502,611,736,813,889,970,1076,1184,1282,1386,1491,1598,1761,1861,1944"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "509,618,718,827,911,1020,1145,1222,1298,1379,1485,1593,1691,1795,1900,2007,2170,2270",
+                        "endColumns": "108,99,108,83,108,124,76,75,80,105,107,97,103,104,106,162,99,82",
+                        "endOffsets": "613,713,822,906,1015,1140,1217,1293,1374,1480,1588,1686,1790,1895,2002,2165,2265,2348"
+                    }
+                }
+            ]
+        }
+    ]
+}

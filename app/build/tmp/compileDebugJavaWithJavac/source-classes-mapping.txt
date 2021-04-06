@@ -1,0 +1,27 @@
+com/thenextbiggeek/scribblear/SplashActivity.java
+ com.thenextbiggeek.scribblear.SplashActivity
+ com.thenextbiggeek.scribblear.SplashActivity$1
+com/thenextbiggeek/scribblear/BufferedWriteableFileByteChannel.java
+ com.thenextbiggeek.scribblear.BufferedWritableFileByteChannel
+com/thenextbiggeek/scribblear/Stroke.java
+ com.thenextbiggeek.scribblear.Stroke
+com/thenextbiggeek/scribblear/VideoRecorder.java
+ com.thenextbiggeek.scribblear.VideoRecorder
+com/thenextbiggeek/scribblear/MainActivity.java
+ com.thenextbiggeek.scribblear.MainActivity
+ com.thenextbiggeek.scribblear.MainActivity$1
+ com.thenextbiggeek.scribblear.MainActivity$2
+ com.thenextbiggeek.scribblear.MainActivity$3
+ com.thenextbiggeek.scribblear.MainActivity$4
+com/thenextbiggeek/scribblear/LineSimplifier.java
+ com.thenextbiggeek.scribblear.LineSimplifier
+com/thenextbiggeek/scribblear/ExtrudedCylinder.java
+ com.thenextbiggeek.scribblear.ExtrudedCylinder
+ com.thenextbiggeek.scribblear.ExtrudedCylinder$Direction
+com/thenextbiggeek/scribblear/VideoPreviewActivity.java
+ com.thenextbiggeek.scribblear.VideoPreviewActivity
+ com.thenextbiggeek.scribblear.VideoPreviewActivity$AsyncTaskFFMPEG
+ com.thenextbiggeek.scribblear.VideoPreviewActivity$AsyncTaskFFMPEG$1
+ com.thenextbiggeek.scribblear.VideoPreviewActivity$AsyncTaskFFMPEG$2
+com/thenextbiggeek/scribblear/BuildConfig.java
+ com.thenextbiggeek.scribblear.BuildConfig
